@@ -52,7 +52,7 @@ You can also write your own script and just import the Greenland class to do mor
 * save - Saves the output image to a file
 * show - Displays the output image in the default image viewer
 
-Run `python greenland.py -h` to see what the arguments to the functions do. The main script just passes the command line arguments to these arguments in the Seychelles class's methods.
+Run `python greenland.py -h` to see what the arguments to the functions do. The main script just passes the command line arguments to these arguments in the Greenland class's methods.
 
 Feel free to modify any of the code, like the angle mapping or the algorithm itself, to make your own flag generators!
 
